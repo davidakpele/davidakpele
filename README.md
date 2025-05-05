@@ -31,7 +31,7 @@
 
 
 ## ⚡ Self Public Projects I've worked on:
-`` **NOTE:** These project do not involves any government project or classified data.``
+`` **NOTE:** These projects do not involves any government project or classified data.``
 
 1. **News Kotlin Multiplatform App (Android, iOS, Windows, macOS, Linux):** News KMP App is a Kotlin Compose Multiplatform (KMP) project that aims to provide a consistent news reading experience across multiple platforms, including Android, iOS, Windows, macOS, and Linux. This project leverages Kotlin's multiplatform capabilities to share code and logic while using Compose for UI, ensuring a seamless and native experience on each platform
 2. **Coding Meet Kobweb (Website):** Coding Meet Kobweb is my personal portfolio website built using Kobweb. It showcases my projects, services, blog articles, and achievements. The website features smooth animations, organized sections, and an interactive UI for visitors.
