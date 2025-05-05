@@ -1,4 +1,4 @@
-## 🚀 Software Developer: C | C++ | Python | Flask | Django | <br/> &nbsp;&nbsp;&nbsp; Java | Swing | JavaFx | Kotlin | Spring Boot | Golang | Rust | Docker | Kubernates | <br/> &nbsp;&nbsp;&nbsp; React-js | JavaScript | Jetpack Compose 
+## 🚀 Software Developer: C | C++ | Python | Flask | Django | <br/> &nbsp;&nbsp;&nbsp; Java | Swing | JavaFx | Kotlin | Spring Boot | Golang | Rust |<br/> &nbsp;&nbsp;&nbsp; Docker | Kubernates | React-js | JavaScript | Jetpack Compose 
 
 ### 👋 About Me:
 👨‍💻  I'm a Computer Engineer with a passion for building Softwares on Desktop, Android and machine that make a difference.<br/>
