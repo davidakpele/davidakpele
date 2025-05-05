@@ -31,7 +31,7 @@
 
 
 ## ⚡ Projects I've worked on
-1. ** News Kotlin Multiplatform App (Android, iOS, Windows, macOS, Linux):** News KMP App is a Kotlin Compose Multiplatform (KMP) project that aims to provide a consistent news reading experience across multiple platforms, including Android, iOS, Windows, macOS, and Linux. This project leverages Kotlin's multiplatform capabilities to share code and logic while using Compose for UI, ensuring a seamless and native experience on each platform
+1. **News Kotlin Multiplatform App (Android, iOS, Windows, macOS, Linux):** News KMP App is a Kotlin Compose Multiplatform (KMP) project that aims to provide a consistent news reading experience across multiple platforms, including Android, iOS, Windows, macOS, and Linux. This project leverages Kotlin's multiplatform capabilities to share code and logic while using Compose for UI, ensuring a seamless and native experience on each platform
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=davidakpele&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
