@@ -30,7 +30,9 @@
  - Problem found fantastic. Job done successfully. Thanks
 
 
-## ⚡ Projects I've worked on
+## ⚡ Self Public Projects I've worked on:
+`` **NOTE:** These project do not involves any government project or classified data.``
+
 1. **News Kotlin Multiplatform App (Android, iOS, Windows, macOS, Linux):** News KMP App is a Kotlin Compose Multiplatform (KMP) project that aims to provide a consistent news reading experience across multiple platforms, including Android, iOS, Windows, macOS, and Linux. This project leverages Kotlin's multiplatform capabilities to share code and logic while using Compose for UI, ensuring a seamless and native experience on each platform
 2. **Coding Meet Kobweb (Website):** Coding Meet Kobweb is my personal portfolio website built using Kobweb. It showcases my projects, services, blog articles, and achievements. The website features smooth animations, organized sections, and an interactive UI for visitors.
 3. **Gemini AI Kotlin Multiplatform App (Android, iOS, Windows, macOS, Linux, and Web):** Gemini AI KMP App is a Kotlin Compose Multiplatform project designed by Gemini AI where you can retrieve information from text and images in a conversational format. Additionally, it allows storing chats group-wise using SQLDelight and KStore, and facilitates changing the Gemini API key.
@@ -49,7 +51,13 @@
 
 ## 
 
-``Welcome to Coding Meet, your go-to channel for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.``
+`` **Welcome to Coding Meet, your go-to channel for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.**``
+
+## ⚡ Why Choose Coding Meet?
+  - Step-by-step guides for real world softwares like Military Software i.e: ``Submarine Radar, Drone Control and Navigation {UAVs}, Ballistic Missile Tracking System, Command and Control (C2) Systems, Secure VPN Tunneling `` and web applications and Android app development like mobile banking, crypto trading application, healthcare app and so on.
+  - In-depth explanations to understand the concepts thoroughly
+  - Regular updates with the latest trends in the Technology
+  - Join our passionate community of developers and learn together
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=davidakpele&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
