@@ -1,18 +1,20 @@
-## 🚀 Software Developer | Python | Fask | Django | Java | Swing, JavaFx | Kotlin| Spring Boot | Golang | Rust | Docker | Kubernates | Jetpack Compose |👨‍💻
+## 🚀 Software Developer | Python | Fask | Django | Java | Swing, JavaFx | Kotlin| Spring Boot | Golang | Rust | Docker | Kubernates | Jetpack Compose 
+
 ### 👋 About Me:
 👨‍💻  I'm a Computer Engineer with a passion for building Android apps that make a difference.<br/>
 🎓 Studied [Computer Science](https://www.uniben.edu/) at the university of Benin [UniBen]<br/>
 ⛳ Studied Software & Information Technology with programming in Aptech Computer Education at [Idea Konsult](https://ideakonsult.com/)<br/>
 🌱 I’m currently learning neural network, Data Science and Analytics at [Massachusetts Institute of Technology](https://www.classcentral.com/course/data-analysis-massachusetts-institute-of-technolo-22414)<br/>
-💡 I love exploring and applying new technologies, especially in the mobile space.
-📚 Lifelong learner, always curious to level up my skills.
-🧩 Enjoy working on diverse projects — from experimental ideas to real-world solutions.
-💼 Active freelancer on Fiverr and Upwork.
-💬 Shared 60+ answers on Stack Overflow, helping developers solve real-world problems.
-📦 Successfully delivered 30+ client projects, generating over $4,000+ in earnings with 100% satisfaction.
-💬 Provided 60+ technical solutions on Stack Overflow.
-✍️ Published 5+ Android articles on Medium & ProAndroidDev, earning 400+ claps.
+💡 I love exploring and applying new technologies, especially in the mobile space.<br/>
+📚 Lifelong learner, always curious to level up my skills.<br/>
+🧩 Enjoy working on diverse projects — from experimental ideas to real-world solutions.<br/>
+💼 Active freelancer on Fiverr and Upwork.<br/>
+💬 Shared 60+ answers on Stack Overflow, helping developers solve real-world problems.<br/>
+📦 Successfully delivered 30+ client projects, generating over $4,000+ in earnings with 100% satisfaction.<br/>
+💬 Provided 60+ technical solutions on Stack Overflow.<br/>
+✍️ Published 5+ Android articles on Medium & ProAndroidDev, earning 400+ claps.<br/>
 
+⭐ Feedback from clients:
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=davidakpele&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
