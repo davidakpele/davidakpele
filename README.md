@@ -14,7 +14,11 @@
 💬 Provided 60+ technical solutions on Stack Overflow.<br/>
 ✍️ Published 5+ Android articles on Medium & ProAndroidDev, earning 400+ claps.<br/>
 
-⭐ Feedback from clients:
+## ⭐ Feedback from clients:
+ - Very happy with the delivery! I had a very old app and not a lot of developers can do update it perfectly. Meet is a very good and did it in a short span of time. I'll hire him again if I need anything else!
+    Gave me code thumbs up 5 star
+ - I always work with him because he understands very well what I want. He gives me a lot of confidence.
+   
 
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=davidakpele&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
