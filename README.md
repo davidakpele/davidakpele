@@ -63,6 +63,8 @@
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=davidakpele&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidakpele&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
+<br/><br/>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DavidAk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-a-027b9520b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/DavidAk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kimDobua) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DavidAkpele) 
 
