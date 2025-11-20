@@ -1,6 +1,7 @@
 ## 🚀 Software Developer: Python | Java Golang | Rust | DevOps
 
-### 👋 About Me:
+### 👋 About Me
+<img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="320px" />
 👨‍💻  I'm a Computer Engineer with a passion for building Softwares on Desktop, Android and machine that make a difference.<br/>
 🎓 Studied [Computer Science](https://www.uniben.edu/) at the university of Benin [UniBen]<br/>
 ⛳ Studied Software & Information Technology with programming in Aptech Computer Education at [Idea Konsult](https://ideakonsult.com/)<br/>
