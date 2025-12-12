@@ -28,12 +28,6 @@
 
 `` **Welcome to Coding Meet, your go-to channel for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.**``
 
-## ⚡ Why Choose Coding Meet?
-  - Step-by-step guides for real world softwares like Military Software i.e: ``Submarine Radar, Drone Control and Navigation {UAVs}, Ballistic Missile Tracking System, Command and Control (C2) Systems, Secure VPN Tunneling `` and web applications and Android app development like mobile banking, crypto trading application, healthcare app and so on.
-  - In-depth explanations to understand the concepts thoroughly
-  - Regular updates with the latest trends in the Technology
-  - Join our passionate community of developers and learn together
-
 [![David's github stats](https://github-readme-stats.vercel.app/api?username=davidakpele&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
