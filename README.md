@@ -38,19 +38,12 @@
 
 | Category | Achievement |
 |----------|-------------|
-| **Projects Delivered** | 30+ |
-| **Freelance Earnings** | $4,000+ |
+| **Projects Delivered** | 100+ |
 | **Stack Overflow Answers** | 60+ |
 | **Medium Claps** | 400+ |
-| **App Downloads** | 1,000+ |
-| **Client Satisfaction** | 100% |
+| **Client Satisfaction** | 80% |
 
 ### 💻 Technical Proficiency
-
-**Mobile Development**
-- Kotlin/Android ⭐⭐⭐⭐⭐
-- Jetpack Compose ⭐⭐⭐⭐⭐
-- Kotlin Multiplatform ⭐⭐⭐⭐
 
 **Backend & DevOps**
 - Python/Django ⭐⭐⭐⭐⭐
@@ -63,11 +56,10 @@
 - Rust/Axus ⭐⭐⭐⭐⭐
 - Rust/Actix ⭐⭐⭐⭐⭐
 - Rust/Solana/Anchor ⭐⭐⭐⭐
-- Go/Echo ⭐⭐⭐⭐⭐
-- Go/Gin ⭐⭐⭐⭐⭐
 - Celery ⭐⭐⭐⭐⭐
 - Redis ⭐⭐⭐⭐⭐
 - Docker ⭐⭐⭐⭐
+- Ngninx ⭐⭐⭐⭐⭐
 - AWS/Azure ⭐⭐⭐
 - Kubernetes ⭐⭐⭐
 
@@ -75,8 +67,6 @@
 - Java ⭐⭐⭐⭐⭐
 - Python ⭐⭐⭐⭐⭐
 - Rust ⭐⭐⭐⭐
-- Golang ⭐⭐⭐
-
 
 ## 📈 Coding Activity
 ![David's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=dark)
