@@ -1,12 +1,11 @@
-## 🚀 Software Developer: Python | Java Golang | Rust | DevOps
+## 🚀 Software Developer: Python | Java | Rust | DevOps
 
 ### 👋 About Me
-🚀 **Full-Stack Software Engineer** with expertise in **Android, Kotlin Multiplatform, Python, and DevOps**
+🚀 **Senior Software Engineer** with expertise in **Fintech, System Design and Military grade Softwares**
 
 - 🎓 **Computer Engineer** from University of Benin & Aptech Certified
 - 📚 Currently advancing skills in **Neural Networks & Data Science at MIT** (via Class Central)
-- 💼 **Top-Rated Freelancer** on Fiverr/Upwork with **$4,000+ earned** and **100% client satisfaction**
-- 💡 Passionate about **building scalable applications** across Android, Desktop, IoT, and Web
+- 💡 Passionate about **building scalable applications** across Desktop, IoT, and Web API
 - ✍️ **Tech Writer** with 5+ Android articles (400+ claps on Medium)
 - 🎯 **Problem Solver** with 60+ solutions provided on Stack Overflow
 - 🔭 **Always exploring** emerging technologies and real-world applications
