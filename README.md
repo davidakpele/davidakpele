@@ -1,4 +1,4 @@
-## 🚀 Software Developer: Python | Java | Rust | DevOps
+## 🚀 Software Developer: Python | Java | .NET | DevOps
 
 ### 👋 About Me
 🚀 **Senior Software Engineer** with expertise in **Fintech, System Design and Military grade Softwares**
@@ -6,7 +6,6 @@
 - 🎓 **Computer Engineer** from University of Benin & Aptech Certified
 - 📚 Currently advancing skills in **Neural Networks & Data Science at MIT** (via Class Central)
 - 💡 Passionate about **building scalable applications** across Desktop, IoT, and Web API
-- ✍️ **Tech Writer** with 5+ Android articles (400+ claps on Medium)
 - 🎯 **Problem Solver** with 60+ solutions provided on Stack Overflow
 - 🔭 **Always exploring** emerging technologies and real-world applications
 
@@ -53,9 +52,8 @@
 - Java/Spring Security ⭐⭐⭐⭐⭐
 - Java/Swing ⭐⭐⭐
 - Java/JFX ⭐⭐⭐⭐
-- Rust/Axus ⭐⭐⭐⭐⭐
-- Rust/Actix ⭐⭐⭐⭐⭐
-- Rust/Solana/Anchor ⭐⭐⭐⭐
+- ASP Core ⭐⭐⭐⭐⭐
+- .NET ⭐⭐⭐⭐⭐
 - Celery ⭐⭐⭐⭐⭐
 - Redis ⭐⭐⭐⭐⭐
 - Docker ⭐⭐⭐⭐
@@ -66,7 +64,7 @@
 **Main Languages**
 - Java ⭐⭐⭐⭐⭐
 - Python ⭐⭐⭐⭐⭐
-- Rust ⭐⭐⭐⭐
+- .NET ⭐⭐⭐⭐⭐
 
 ## 📈 Coding Activity
 ![David's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=dark)
