@@ -11,18 +11,6 @@
 
 ## ⭐ Feedback from clients:
  - Very happy with the delivery! I had a very old app and not a lot of developers can do update it perfectly. Meet is a very good and did it in a short span of time. I'll hire him again if I need anything else!
- - Gave me code thumbs up 5 star
- - I always work with him because he understands very well what I want. He gives me a lot of confidence.
- - Meet is the best, I highly recommend him!
- - Very satisfied with the work received.
- - fast delivery
- - Very responsive and very good communication. Did the work very quickly and fully to the scope. Would recommend 100%.
- - Professional communication, fast delivery ! THX
- - Developer replied very fast, delivered all changes on time and his work was exceptional. He's very skilled and very very friendly. Our communication was excellent and he has very good skills with android development, java, git and more. I am very satisfied! He is highly recommended
- - Very helpful person helps us at every situation correct my mistakes and helps to run the activity perfectly thankyou so much a developer like u is impossible to find now days 🙌🙌🙌
- - Thank you for always helping to my project and you never tired of helping me. I appreciate all your efforts.
- - You had patience for me and made sure to help me no matter how the problem was.
- - Problem found fantastic. Job done successfully. Thanks
 
 `` **Welcome to Coding Meet, your go-to channel for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.**``
 
