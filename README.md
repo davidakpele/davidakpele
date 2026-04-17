@@ -66,9 +66,6 @@
 - Python ⭐⭐⭐⭐⭐
 - .NET ⭐⭐⭐⭐⭐
 
-## 📈 Coding Activity
-![David's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidakpele&theme=dark)
-
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=davidakpele&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
