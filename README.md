@@ -49,9 +49,9 @@
 - Python/FastAPI ⭐⭐⭐⭐⭐
 - Python/Flask ⭐⭐⭐⭐
 - Java/Spring-boot ⭐⭐⭐⭐⭐
+- Java/Spring-boot MVC ⭐⭐⭐⭐⭐
+- Java/Spring-boot JPA ⭐⭐⭐⭐⭐
 - Java/Spring Security ⭐⭐⭐⭐⭐
-- Java/Swing ⭐⭐⭐
-- Java/JFX ⭐⭐⭐⭐
 - ASP Core ⭐⭐⭐⭐⭐
 - .NET ⭐⭐⭐⭐⭐
 - Celery ⭐⭐⭐⭐⭐
@@ -59,7 +59,6 @@
 - Docker ⭐⭐⭐⭐
 - Ngninx ⭐⭐⭐⭐⭐
 - AWS/Azure ⭐⭐⭐
-- Kubernetes ⭐⭐⭐
 
 **Main Languages**
 - Java ⭐⭐⭐⭐⭐
