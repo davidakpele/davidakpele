@@ -1,4 +1,4 @@
-## 🚀 Software Developer: Python | Java | .NET | DevOps
+## 🚀 Software Developer: Python | Java | .NET | Rust | Docker | Ngnix
 
 ### 👋 About Me
 🚀 **Senior Software Engineer** with expertise in **Fintech, System Design and Military grade Softwares**
