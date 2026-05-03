@@ -34,6 +34,8 @@
 - ASP Core ⭐⭐⭐⭐⭐
 - .NET ⭐⭐⭐⭐⭐
 - Celery ⭐⭐⭐⭐⭐
+- Rust/Actrix ⭐⭐⭐⭐
+- Rust/Axum⭐⭐⭐⭐
 - Redis ⭐⭐⭐⭐⭐
 - Docker ⭐⭐⭐⭐
 - Ngninx ⭐⭐⭐⭐⭐
