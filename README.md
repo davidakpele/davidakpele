@@ -3,7 +3,6 @@
 ### 👋 About Me
 🚀 **Senior Software Engineer** with expertise in **Fintech, System Design and Military grade Softwares**
 
-- 🎓 **Computer Engineer** from University of Benin & Aptech Certified
 - 📚 Currently advancing skills in **Neural Networks & Data Science at MIT** (via Class Central)
 - 💡 Passionate about **building scalable applications** across Desktop, IoT, and Web API
 - 🎯 **Problem Solver** with 60+ solutions provided on Stack Overflow
