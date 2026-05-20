@@ -17,7 +17,6 @@
 |----------|-------------|
 | **Projects Delivered** | 100+ |
 | **Stack Overflow Answers** | 60+ |
-| **Medium Claps** | 400+ |
 | **Client Satisfaction** | 80% |
 
 ### 💻 Technical Proficiency
