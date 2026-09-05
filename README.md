@@ -1,4 +1,4 @@
-## 🚀 Software Developer: Python | Java | .NET | Rust | Docker | Ngnix
+## 🚀 Software Developer: Python | Java | .NET | Node Express | Docker | Ngnix
 
 ### 👋 About Me
 🚀 **Senior Software Engineer** with expertise in **Fintech, System Design and Military grade Softwares**
@@ -30,8 +30,8 @@
 - ASP Core ⭐⭐⭐⭐⭐
 - .NET ⭐⭐⭐⭐⭐
 - Celery ⭐⭐⭐⭐⭐
-- Rust/Actrix ⭐⭐⭐⭐
-- Rust/Axum⭐⭐⭐⭐
+- Node js ⭐⭐⭐⭐
+- Express⭐⭐⭐⭐
 - Redis ⭐⭐⭐⭐⭐
 - Docker ⭐⭐⭐⭐
 - Ngninx ⭐⭐⭐⭐⭐
