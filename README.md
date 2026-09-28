@@ -148,10 +148,8 @@ I'm a passionate Software Engineer with 10+ years of hands-on experience across 
 
 ### **Architecture & Reliability**
 
-* RESTful API Design ⭐⭐⭐⭐⭐ 
-* Microservices - **Good* ⭐⭐⭐⭐⭐
-* Modular Monoliths -*Best in Enterprice Application* ⭐⭐⭐⭐⭐ 
-* Distributed Systems ⭐⭐⭐⭐⭐ 
+* Microservices Architecture — ⭐⭐⭐⭐⭐Good as Distributed & Independently Scalable
+* Modular Monolith Architecture — ⭐⭐⭐⭐⭐But Best for Enterprise-Grade & Highly Maintainable
 * Reverse Proxy Architecture ⭐⭐⭐⭐⭐ 
 * Load Balancing & Traffic Routing ⭐⭐⭐⭐⭐ 
 * Fault Tolerance & Resilience ⭐⭐⭐⭐⭐ 
@@ -159,9 +157,22 @@ I'm a passionate Software Engineer with 10+ years of hands-on experience across 
 * High Availability ⭐⭐⭐⭐⭐ 
 * Caching Strategies ⭐⭐⭐⭐⭐ 
 * Asynchronous Processing ⭐⭐⭐⭐⭐ 
-* Rate Limiting & Backpressure ⭐⭐⭐⭐⭐ 
 * Database Transactions & Consistency ⭐⭐⭐⭐⭐ 
 
+### ** API & Distributed Systems** 
+* RESTful API Design ⭐⭐⭐⭐⭐
+* gRPC ⭐⭐⭐⭐⭐
+* WebSockets ⭐⭐⭐⭐
+* GraphQL ⭐⭐⭐⭐
+* Webhooks & Event-Driven APIs ⭐⭐⭐⭐
+* API Versioning & Backward Compatibility ⭐⭐⭐⭐⭐
+* API Gateway & Service-to-Service Communication  ⭐⭐⭐⭐⭐
+* Authentication & Authorization ⭐⭐⭐⭐⭐
+* Rate Limiting & Throttling ⭐⭐⭐⭐⭐
+* Idempotency & Request Deduplication  ⭐⭐⭐⭐⭐
+* Pagination, Filtering & Sorting ⭐⭐⭐⭐⭐
+* API Documentation — OpenAPI / Swagger ⭐⭐⭐⭐⭐
+* Unit Testing ⭐⭐⭐⭐⭐
 
 ## 📊 GitHub Stats:
 
