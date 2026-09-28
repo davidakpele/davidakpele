@@ -133,19 +133,6 @@ I'm a passionate Software Engineer with 10+ years of hands-on experience across 
 * Database Transactions & Connection Pooling ⭐⭐⭐⭐⭐ 
 * Database Backup & Recovery ⭐⭐⭐⭐⭐ 
 
-### **Monitoring & Observability**
-
-* Prometheus (Metrics & Alerting) ⭐⭐⭐⭐⭐ 
-* Grafana (Monitoring Dashboards) ⭐⭐⭐⭐⭐ 
-* Loki (Log Aggregation) ⭐⭐⭐⭐⭐ 
-* Promtail (Log Shipping) ⭐⭐⭐⭐⭐ 
-* Zipkin (Distributed Tracing) ⭐⭐⭐⭐⭐ 
-* OpenTelemetry ⭐⭐⭐⭐⭐ 
-* Centralized Logging ⭐⭐⭐⭐⭐ 
-* Health Checks & Alert Management ⭐⭐⭐⭐⭐ 
-* Performance Monitoring ⭐⭐⭐⭐⭐ 
-* Incident Investigation & Troubleshooting ⭐⭐⭐⭐⭐ 
-
 ### **Architecture & Reliability**
 
 * Microservices Architecture — ⭐⭐⭐⭐⭐Good as Distributed & Independently Scalable
@@ -173,6 +160,19 @@ I'm a passionate Software Engineer with 10+ years of hands-on experience across 
 * Pagination, Filtering & Sorting ⭐⭐⭐⭐⭐
 * API Documentation — OpenAPI / Swagger ⭐⭐⭐⭐⭐
 * Unit Testing ⭐⭐⭐⭐⭐
+
+### **Monitoring & Observability**
+
+* Prometheus (Metrics & Alerting) ⭐⭐⭐⭐⭐ 
+* Grafana (Monitoring Dashboards) ⭐⭐⭐⭐⭐ 
+* Loki (Log Aggregation) ⭐⭐⭐⭐⭐ 
+* Promtail (Log Shipping) ⭐⭐⭐⭐⭐ 
+* Zipkin (Distributed Tracing) ⭐⭐⭐⭐⭐ 
+* OpenTelemetry ⭐⭐⭐⭐⭐ 
+* Centralized Logging ⭐⭐⭐⭐⭐ 
+* Health Checks & Alert Management ⭐⭐⭐⭐⭐ 
+* Performance Monitoring ⭐⭐⭐⭐⭐ 
+* Incident Investigation & Troubleshooting ⭐⭐⭐⭐⭐ 
 
 ## 📊 GitHub Stats:
 
