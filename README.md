@@ -49,11 +49,11 @@
 
 ## About Me
 
-I'm a passionate Software Engineer with 10+ years of hands-on experience across backend engineering, fintech systems, geospatial platforms, AI/ML, and DevOps. I enjoy building scalable, secure, and resilient systems with clean code and real-world impact. I specialize in Java, C#, Python, Go, and Rust, and comfortably work across backend, frontend, and distributed system stacks.
+I'm a passionate Software Engineer with 10+ years of hands-on experience across backend engineering, fintech systems, geospatial platforms, AI/ML, and DevOps. I enjoy building scalable, secure, and resilient systems with clean code and real-world impact. I specialize in Java, C#, Python, Express, Javascript, Go, and Rust, and comfortably work across backend, frontend, and distributed system stacks.
 
 ## What I Do
 
-* ⚙️ Build high-performance backend systems and microservices (Spring Boot, ASP.NET Core, Django, FastAPI, Flask)
+* ⚙️ Build high-performance backend systems and microservices (Spring Boot, Django, Go and Rust)
 * 🏦 Engineer fintech and banking platforms: escrow, reconciliation, billing, ledger systems, and Redis-based idempotency
 * 📈 Build high-frequency trading (HFT) systems in Go and Rust, focused on low-latency algorithmic trading and fast order execution
 * 🗺️ Architect multi-tenant geospatial SaaS platforms with PostgreSQL/PostGIS, GeoJSON, and Shapefile processing
