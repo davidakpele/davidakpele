@@ -159,7 +159,7 @@ I'm a passionate Software Engineer with 10+ years of hands-on experience across 
 * Asynchronous Processing ⭐⭐⭐⭐⭐ 
 * Database Transactions & Consistency ⭐⭐⭐⭐⭐ 
 
-### ** API & Distributed Systems** 
+### **API & Distributed Systems** 
 * RESTful API Design ⭐⭐⭐⭐⭐
 * gRPC ⭐⭐⭐⭐⭐
 * WebSockets ⭐⭐⭐⭐
