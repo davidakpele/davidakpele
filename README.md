@@ -49,7 +49,7 @@
 
 ## About Me
 
-I'm a passionate Software Engineer with 10+ years of hands-on experience across backend engineering, fintech systems, geospatial platforms, AI/ML, and DevOps. I enjoy building scalable, secure, and resilient systems with clean code and real-world impact. I specialize in Java, C#, Python, Express, Javascript, Go, and Rust, and comfortably work across backend, frontend, and distributed system stacks.
+I'm a passionate Software Engineer with 10+ years of hands-on experience across backend engineering, fintech systems, geospatial platforms, AI/ML, and DevOps. I enjoy building scalable, secure, and resilient systems with clean code and real-world impact. 
 
 ## What I Do
 
