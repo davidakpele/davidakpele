@@ -64,41 +64,104 @@ I'm a passionate Software Engineer with 10+ years of hands-on experience across 
 * ⚡ Optimize performance with Redis and Hazelcast caching, query tuning, and custom indexing
 * 🚀 Ship with CI/CD pipelines using GitHub Actions, Docker, and Nginx, monitored with Grafana and Prometheus
 
-## 📈 Metrics & Impact
+## 💻 Technical Proficiency
 
-| Category | Achievement |
-|----------|-------------|
-| **Projects Delivered** | 200+ |
-| **Stack Overflow Answers** | 60+ |
-| **Client Satisfaction** | 91% |
+### **Backend & DevOps**
 
-### 💻 Technical Proficiency
+* Java ⭐⭐⭐⭐⭐
+* Python ⭐⭐⭐⭐⭐
+* .NET ⭐⭐⭐⭐⭐
+* Go ⭐⭐⭐⭐
+* Rust ⭐⭐⭐⭐
+* Node.js / Express.js ⭐⭐⭐⭐⭐
+* Redis ⭐⭐⭐⭐⭐
+* RabbitMQ ⭐⭐⭐⭐
+* Kafka ⭐⭐⭐⭐
 
-**Backend & DevOps**
-- Python/Django ⭐⭐⭐⭐⭐
-- Python/FastAPI ⭐⭐⭐⭐⭐
-- Python/Flask ⭐⭐⭐⭐
-- Java/Spring-boot ⭐⭐⭐⭐⭐
-- Java/Spring-boot MVC ⭐⭐⭐⭐⭐
-- Java/Spring-boot JPA ⭐⭐⭐⭐⭐
-- Java/Spring Security ⭐⭐⭐⭐⭐
-- ASP Core ⭐⭐⭐⭐⭐
-- .NET ⭐⭐⭐⭐⭐
-- Express ⭐⭐⭐⭐⭐
-- Celery ⭐⭐⭐⭐⭐
-- Rust ⭐⭐⭐⭐
-- Golang⭐⭐⭐⭐
-- Redis ⭐⭐⭐⭐⭐
-- Docker ⭐⭐⭐⭐
-- Nginx ⭐⭐⭐⭐⭐
-- AWS/Azure ⭐⭐⭐
+### **Infrastructure & Networking**
 
-**Main Languages**
-- Java ⭐⭐⭐⭐⭐
-- Python ⭐⭐⭐⭐⭐
-- .NET ⭐⭐⭐⭐⭐
-- Golang ⭐⭐⭐⭐
-- Rust ⭐⭐⭐
+* Docker & Docker Compose ⭐⭐⭐⭐⭐
+* Nginx (Reverse Proxy, Load Balancing) ⭐⭐⭐⭐⭐
+* HAProxy (Load Balancing) ⭐⭐⭐⭐⭐
+* Linux Server Administration ⭐⭐⭐⭐
+* TCP/IP, DNS, HTTP/HTTPS ⭐⭐⭐⭐ 
+* TLS/SSL Configuration ⭐⭐⭐⭐
+* CDN & Edge Networking ⭐⭐⭐⭐
+* Network Segmentation ⭐⭐⭐⭐
+* Service Discovery ⭐⭐⭐⭐⭐ 
+* DNS Management & Domain Configuration ⭐⭐⭐⭐⭐ 
+* High Availability & Fault Tolerance ⭐⭐⭐⭐⭐ 
+* Horizontal Scaling & High Availability ⭐⭐⭐⭐⭐
+
+### **Cloud & Deployment**
+
+* AWS ⭐⭐⭐
+* Microsoft Azure ⭐⭐⭐
+* CI/CD Pipelines ⭐⭐⭐⭐⭐
+* GitHub Actions ⭐⭐⭐⭐⭐
+* Containerized Application Deployment ⭐⭐⭐⭐⭐
+* Automated Builds and Deployments ⭐⭐⭐⭐⭐
+* Cloud Infrastructure Management ⭐⭐⭐⭐
+
+### **Security Engineering**
+ 
+* Spring Security & OAuth 2.0 ⭐⭐⭐⭐⭐ 
+* JWT Authentication & Authorization ⭐⭐⭐⭐⭐ 
+* Role-Based Access Control (RBAC) ⭐⭐⭐⭐⭐ 
+* Multi-Factor Authentication (MFA / 2FA) ⭐⭐⭐⭐⭐ 
+* API Security & Access Control ⭐⭐⭐⭐⭐ 
+* Rate Limiting & DDoS Mitigation ⭐⭐⭐⭐⭐ 
+* Web Application Firewall (WAF) ⭐⭐⭐⭐⭐ 
+* Secrets & Environment Configuration ⭐⭐⭐⭐⭐ 
+* TLS/SSL & Certificate Management ⭐⭐⭐⭐⭐ 
+* Input Validation & Injection Prevention ⭐⭐⭐⭐⭐ 
+* Session Management & Token Revocation ⭐⭐⭐⭐⭐
+* Security Headers (CSP, HSTS) ⭐⭐⭐⭐⭐ 
+* Audit Logging & Session Management ⭐⭐⭐⭐⭐ 
+
+### **Databases & Messaging**
+
+* PostgreSQL ⭐⭐⭐⭐⭐
+* MySQL ⭐⭐⭐⭐⭐ 
+* MongoDB ⭐⭐⭐
+* MMSQL ⭐⭐⭐⭐⭐ 
+* Oracle ⭐⭐⭐⭐ 
+* Neo4j ⭐⭐⭐
+* Redis (Caching, Sessions, Rate Limiting) ⭐⭐⭐⭐⭐ 
+* RabbitMQ (Asynchronous Messaging) ⭐⭐⭐⭐⭐ 
+* Database Indexing & Query Optimization ⭐⭐⭐⭐⭐ 
+* Database Transactions & Connection Pooling ⭐⭐⭐⭐⭐ 
+* Database Backup & Recovery ⭐⭐⭐⭐⭐ 
+
+### **Monitoring & Observability**
+
+* Prometheus (Metrics & Alerting) ⭐⭐⭐⭐⭐ 
+* Grafana (Monitoring Dashboards) ⭐⭐⭐⭐⭐ 
+* Loki (Log Aggregation) ⭐⭐⭐⭐⭐ 
+* Promtail (Log Shipping) ⭐⭐⭐⭐⭐ 
+* Zipkin (Distributed Tracing) ⭐⭐⭐⭐⭐ 
+* OpenTelemetry ⭐⭐⭐⭐⭐ 
+* Centralized Logging ⭐⭐⭐⭐⭐ 
+* Health Checks & Alert Management ⭐⭐⭐⭐⭐ 
+* Performance Monitoring ⭐⭐⭐⭐⭐ 
+* Incident Investigation & Troubleshooting ⭐⭐⭐⭐⭐ 
+
+### **Architecture & Reliability**
+
+* RESTful API Design ⭐⭐⭐⭐⭐ 
+* Microservices - **Good* ⭐⭐⭐⭐⭐
+* Modular Monoliths -*Best in Enterprice Application* ⭐⭐⭐⭐⭐ 
+* Distributed Systems ⭐⭐⭐⭐⭐ 
+* Reverse Proxy Architecture ⭐⭐⭐⭐⭐ 
+* Load Balancing & Traffic Routing ⭐⭐⭐⭐⭐ 
+* Fault Tolerance & Resilience ⭐⭐⭐⭐⭐ 
+* Horizontal Scaling ⭐⭐⭐⭐⭐ 
+* High Availability ⭐⭐⭐⭐⭐ 
+* Caching Strategies ⭐⭐⭐⭐⭐ 
+* Asynchronous Processing ⭐⭐⭐⭐⭐ 
+* Rate Limiting & Backpressure ⭐⭐⭐⭐⭐ 
+* Database Transactions & Consistency ⭐⭐⭐⭐⭐ 
+
 
 ## 📊 GitHub Stats:
 
